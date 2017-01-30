@@ -1,0 +1,8 @@
+﻿Vendor=Фирма "1С"
+Name=13 занятий
+Version=1.0.0.1
+AppVersion=8.3
+[Config1]
+Catalog=Книга 1С:Предприятие 8.3. Практическое пособие разработчика/13 занятий
+Destination=1c/83DevelopersGuide/13lessons
+Source=1Cv8_13.dt

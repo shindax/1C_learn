@@ -1,0 +1,8 @@
+﻿Vendor=Фирма "1С"
+Name=28 занятий
+Version=1.0.0.1
+AppVersion=8.3
+[Config1]
+Catalog=Книга 1С:Предприятие 8.3. Практическое пособие разработчика/28 занятий
+Destination=1c/83DevelopersGuide/28lessons
+Source=1Cv8_28.dt

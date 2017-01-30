@@ -1,0 +1,38 @@
+﻿[8 занятий]
+Connect=File="C:\Users\shindax\Documents\1c/83DevelopersGuide/8lessons";
+ID=30d0c3e0-c9a8-491c-b01b-0050571c21f9
+OrderInList=16384
+Folder=/
+OrderInTree=16384
+External=0
+App=Auto
+WA=1
+[20 занятий]
+Connect=File="C:\Users\shindax\Documents\1c\83DevelopersGuide\20lessons";
+ID=5d4b5c62-59ee-47e6-8096-5b4abf8e2b35
+OrderInList=16512
+Folder=/
+OrderInTree=49152
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+[28 занятий]
+Connect=File="c:\Users\shindax\Documents\1c\83DevelopersGuide\28lessons\";
+ID=079802e6-1705-4d39-9457-a9b72ddde26b
+OrderInList=16576
+Folder=/
+OrderInTree=65536
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+[13 занятий]
+Connect=File="C:\Users\shindax\Documents\1c/83DevelopersGuide/13lessons";
+ID=30d0c3e0-c9a8-491c-b01b-0050571c21f9
+OrderInList=16426.66666666667
+Folder=/
+OrderInTree=27306.66666666666
+External=0
+App=Auto
+WA=1
